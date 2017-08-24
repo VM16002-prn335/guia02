@@ -1,4 +1,2 @@
 FROM payara/server-full
 
-
-
